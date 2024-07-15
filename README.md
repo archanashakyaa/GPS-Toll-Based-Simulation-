@@ -38,7 +38,7 @@ This project simulates a GPS toll-based system using Python. The simulation cove
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/archanasakyaa/Gps-tool-based-simulation-using-python
+    git clone https://github.com/archanashakyaa/GPS-Toll-Based-Simulation-.git
     cd gps-toll-based-system
     ```
 
